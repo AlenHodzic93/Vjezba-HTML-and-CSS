@@ -1,0 +1,44 @@
+body{
+    background-color: #89d6d9;
+}
+div{
+    background-color: #ffffff;
+    margin: auto;
+    width:960px;
+}
+
+#Milos-cr{
+    padding: 20px;
+}
+
+#tabela-info{
+    font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+}
+#tabela-info th, #tabela-info td{
+    border: 1px solid #cccccc;
+    padding: 5px;
+}
+
+#tabela-info th{
+    padding: 10px;
+    text-align: center;
+    background-color: #ece7d7;
+    color: black;
+}
+
+#tabela-info td{
+    background-color: #f5f4f2;
+}
+#Milos-cr2{
+    background-color: #dddddd;
+}
+img{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    height: 150px;
+}
+p{
+    padding: 10px;
+}
